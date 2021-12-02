@@ -24,3 +24,5 @@ $ yarn test-coverage
 ```
 
 ## days
+
+* [day-01](src/day-01/)
