@@ -6,6 +6,7 @@ https://adventofcode.com/
 
 ## years
 
+* [2015](2015/)
 * [2021](2021/)
 
 ## license
