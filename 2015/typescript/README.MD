@@ -14,6 +14,7 @@ from the parent directory manually.
 $ mkdir static
 $ ln -s ../../input static/input
 $ ln -s ../../expected static/expected
+```
 
 run test cases for each day
 
@@ -26,3 +27,4 @@ $ yarn test-coverage
 
 * [day-01](src/day-01/)
 * [day-02](src/day-02/)
+* [day-03](src/day-03/)
