@@ -36,3 +36,4 @@ $ yarn test-coverage
 * [day-09](src/day-09/)
 * [day-10](src/day-10/)
 * [day-11](src/day-11/)
+* [day-12](src/day-12/)
